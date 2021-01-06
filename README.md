@@ -2,7 +2,7 @@
 
 # Connect with me:
 
-<a href="https://github.com/KaisarJamil"><img src="https://img.shields.io/github/followers/remonhasan.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://github.com/KaisarJamil">
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/akjamil10" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/kaisar-jamil-4161501a5/" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
