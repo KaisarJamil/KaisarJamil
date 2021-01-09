@@ -6,10 +6,6 @@
 - 📫 How to reach me **kaisarjamil.cse@gmail.com**
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaisarjamil&show_icons=true&locale=en" alt="kaisarjamil" /></p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akjamil10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akjamil10" height="30" width="40" /></a>
